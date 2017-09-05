@@ -9,6 +9,7 @@ Currently supported coins:
 - **Litecoin** - Pulled from Coinbase.com API.
 - **Neo** - Pulled from bittrex.com API.
 - **Civic** - Pulled from bittrex.com API.
+- **Monero** - Pulled from bittrex.com API. (This is an addon under monero.json)
 - **TenX** - Pulled from bittrex.com API. (This is an addon under tenx.json)
 - **OmiseGo** - Pulled from bittrex.com API. (This is an addon under omg.json)
 
